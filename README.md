@@ -16,7 +16,7 @@ metadata:           # metadata matlab data about data
 type: Opaque        # Opaque ek generic secret type hai, jo custom key-value pair store karne ke liye use hota hai
 stringData:          # stringData use kiya gaya hai taki values plain text mein likh sake, kubernetes ise internally base64 encode karega
   azurestorageaccountname: bambhole #ye storage accountka naam diya hai
-  azurestorageaccountkey: ulFAXD9qZ3hG5W8zHXrUQjrGleVaF/B4u9pP7YolotliBXO8qgsVQO4wjWacp5eD1nbWEAsf2hRJ+AStEuw6aw==
+  azurestorageaccountkey: erjksdglsdjsjgsgsgkdgsgjlkjdlkbndlbelbln====EKMKRKM===
   # ye storage accountka key diya hai
   # ye dono cheezein secret.yaml mein hai, jo ki pod.yaml aur pv.yaml mein use hoti hain
   
